@@ -1,1 +1,17 @@
-# ingunbi-Busan_XR_MonsterHouse
+# 👾 Busan XR MonsterHouse
+
+부산 XR 콘텐츠 제작 프로젝트 중 하나로, 몬스터하우스 테마의 인터랙티브 XR 경험입니다.
+
+## 개요
+
+Unreal Engine 5를 기반으로 제작된 XR 콘텐츠입니다.  
+부산 지역 XR 산업 진흥을 위한 콘텐츠 개발 프로젝트의 일환으로 제작되었습니다.
+
+## 기술 스택
+
+- **엔진**: Unreal Engine 5
+- **플랫폼**: XR (VR/AR)
+
+## 업데이트
+
+- 2024-01-16: 최초 공개
